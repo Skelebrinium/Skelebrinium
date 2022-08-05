@@ -8,4 +8,5 @@ My repositories on this account are most likely going to be private.
 I am in an organisation called [SkelOrg](https://github.com/SkelOrg)!
 
 I can't wait to begin my work here!
-Account is likely being ran on a Raspbery Pi.
+
+Account is likely being ran on a Raspberry Pi.
